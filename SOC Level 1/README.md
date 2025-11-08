@@ -73,18 +73,21 @@ Ces labs m'ont permis de détecter des activités suspectes sur le réseau.
 - **Data Exfiltration & MitM Detection** : identification des exfiltrations et attaques man-in-the-middle.
 
 ---
+<img width="170" alt="image" src="https://tryhackme-images.s3.eu-west-1.amazonaws.com/modules/web-security-monitoring-1758288631299.svg" />
 
 ### 8. Monitoring Web
 - **Web Security Essentials & Detecting Web Attacks** : détection de web shells, uploads malveillants et DDoS.  
 - Scénarios pratiques pour suivre et analyser les attaques web.
 
 ---
+<img width="170" alt="image" src="https://tryhackme-images.s3.eu-west-1.amazonaws.com/modules/windows-security-monitoring-1753787914027.svg" />
 
 ### 9. Monitoring Windows
 - **Windows Logging for SOC** : événements critiques et Sysmon.  
 - **Windows Threat Detection 1 à 3** : détection de persistence, d'injection et d'activités suspectes PowerShell.
 
 ---
+<img width="170" alt="image" src="https://tryhackme-images.s3.eu-west-1.amazonaws.com/modules/linux-security-monitoring-1761914648963.svg" />
 
 ### 10. Monitoring Linux
 - **Linux Logging & Threat Detection 1 à 3** : auditd, journald et détection d’activités anormales.  
@@ -99,7 +102,7 @@ Ces labs m'ont permis de détecter des activités suspectes sur le réseau.
 - **Intro to Malware Analysis** : analyse statique et dynamique basique.
 
 ---
-
+<img width="170" alt="image" src="https://tryhackme-images.s3.eu-west-1.amazonaws.com/modules/threat-analysis-tools-1757684500027.svg" />
 
 ### 12. Threat Analysis Tools
 - **Cyber Threat Intel** : collecte et corrélation des IOCs (hash, IP, domaine).  
