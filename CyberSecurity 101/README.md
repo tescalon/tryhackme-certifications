@@ -8,6 +8,7 @@ J'ai suivi le module **Cyber Security 101** sur TryHackMe, conçu pour les débu
 ---
 
 ## Contenu du module
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/a239a914-5019-43c2-b12b-aefc3f9a47d4" />
 
 ### 1. Débuter en cybersécurité
 Dans cette section, j'ai découvert les fondamentaux pour démarrer dans la cybersécurité :  
@@ -18,6 +19,7 @@ Dans cette section, j'ai découvert les fondamentaux pour démarrer dans la cybe
 Ces bases m'ont permis de mieux appréhender la suite du parcours et de comprendre les rôles dans le domaine.
 
 ---
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/257f4b5b-751f-43cc-9415-2b87279c1bc6" />
 
 ### 2. Fondamentaux Linux
 J'ai approfondi mes connaissances Linux acquises en PreSecurity :  
@@ -28,6 +30,7 @@ J'ai approfondi mes connaissances Linux acquises en PreSecurity :
 Ces labs m'ont préparé à utiliser Linux pour les exercices offensifs et défensifs plus avancés.
 
 ---
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/15a18891-4cdf-48d6-8dba-9feecdb1ea67" />
 
 ### 3. Fondamentaux Windows et Active Directory
 Cette section m'a permis de comprendre l'écosystème Windows et Active Directory :  
@@ -38,6 +41,7 @@ Cette section m'a permis de comprendre l'écosystème Windows et Active Director
 Ces compétences sont essentielles pour l'analyse de sécurité et les tests d'intrusion dans les environnements d'entreprise.
 
 ---
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/fce22397-c4dd-4912-946c-788b4fef6bfc" />
 
 ### 4. Ligne de commande
 J'ai appris à utiliser efficacement les interfaces en ligne de commande :  
@@ -48,6 +52,7 @@ J'ai appris à utiliser efficacement les interfaces en ligne de commande :
 Ces compétences m'ont permis de mieux interagir avec les systèmes lors des exercices pratiques.
 
 ---
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/10dcf9f5-fb60-42aa-a187-773df41cb5a8" />
 
 ### 5. Réseaux
 J'ai consolidé mes connaissances sur le fonctionnement des réseaux :  
@@ -58,6 +63,7 @@ J'ai consolidé mes connaissances sur le fonctionnement des réseaux :
 Ces labs m'ont permis de comprendre le trafic réseau et de détecter des anomalies potentielles.
 
 ---
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/7296a9e2-3cd1-4894-a46e-b0a6e1843f47" />
 
 ### 6. Cryptographie
 J'ai découvert les bases de la sécurité des données :  
@@ -70,6 +76,7 @@ J'ai découvert les bases de la sécurité des données :
 Ces connaissances m'ont donné un aperçu des mécanismes de sécurité essentiels dans la protection des données.
 
 ---
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/c5ac3fe2-aa81-4b77-9803-c60ffb778f8f" />
 
 ### 7. Exploitation de base
 J'ai commencé à explorer les concepts d'exploitation :  
@@ -80,6 +87,7 @@ J'ai commencé à explorer les concepts d'exploitation :
 Ces labs m'ont permis de me familiariser avec les outils d'attaque dans un environnement contrôlé.
 
 ---
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/95e915e0-de45-48fc-8296-0976d1c60b83" />
 
 ### 8. Web Hacking
 J'ai appris les bases de la sécurité des applications web :  
@@ -91,6 +99,7 @@ J'ai appris les bases de la sécurité des applications web :
 Ces connaissances sont fondamentales pour la cybersécurité offensive et la sécurisation des applications.
 
 ---
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/c253a440-d865-45cc-8463-1f75a8670838" />
 
 ### 9. Outils offensifs
 J'ai utilisé des outils de penetration testing :  
@@ -102,6 +111,7 @@ J'ai utilisé des outils de penetration testing :
 Ces outils m'ont permis d'expérimenter des scénarios réalistes d'attaque.
 
 ---
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/4376a6e2-a242-40d4-8976-a0ea38c984ee" />
 
 ### 10. Sécurité défensive
 J'ai exploré la protection et la réponse aux incidents :  
@@ -112,6 +122,7 @@ J'ai exploré la protection et la réponse aux incidents :
 Ces bases sont essentielles pour devenir un analyste SOC compétent.
 
 ---
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/4b57f273-11cc-4f94-b8ca-fef60d966857" />
 
 ### 11. Solutions de sécurité
 J'ai découvert les solutions défensives utilisées en entreprise :  
@@ -120,6 +131,7 @@ J'ai découvert les solutions défensives utilisées en entreprise :
 - Compréhension du rôle de chaque solution et de leur intégration dans une stratégie de cybersécurité.
 
 ---
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/b8cc8fa6-0c1d-4a24-a865-0664f2c4edb5" />
 
 ### 12. Outils défensifs
 J'ai pratiqué avec des outils spécifiques pour l'analyse et la réponse aux incidents :  
@@ -129,6 +141,7 @@ J'ai pratiqué avec des outils spécifiques pour l'analyse et la réponse aux in
 Ces outils m'ont permis d'approfondir mes compétences pratiques en défense.
 
 ---
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/80d36a5e-12a4-44ab-82a2-7b0b5896cbe6" />
 
 ### 13. Construire sa carrière en cybersécurité
 Enfin, j'ai découvert les bonnes pratiques et stratégies pour progresser dans ce domaine :  
