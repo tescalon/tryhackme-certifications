@@ -7,7 +7,7 @@ J'ai complété le module **SOC Level 1** sur TryHackMe pour acquérir les comp�
 ---
 
 ## Contenu du module
-<img width="170" alt="image" src="https://github.com/user-attachments/assets/d07f0d46-190b-47f9-8d80-a69c4154a673" />
+<img width="716" height="637" alt="image" src="https://github.com/user-attachments/assets/2de9419b-ab29-4496-9f86-b7abfd489092" />
 
 ### 1. Introduction à la Blue Team
 - **Junior Security Analyst Intro** : découverte du rôle d'analyste SOC L1.  
@@ -17,7 +17,7 @@ J'ai complété le module **SOC Level 1** sur TryHackMe pour acquérir les comp�
 Ces éléments posent les bases pour comprendre les responsabilités quotidiennes d’un analyste SOC.
 
 ---
-<img width="170" alt="image" src="https://github.com/user-attachments/assets/33a0ab39-eda4-4c12-b5c4-f2f398be620c" />
+<img width="304" height="304" alt="image" src="https://github.com/user-attachments/assets/f73bd35d-d296-47a8-838d-61a2368f280e" />
 
 ### 2. Internals SOC
 - **SOC L1 Alert Triage & Reporting** : triage, priorisation et documentation des alertes.  
@@ -38,7 +38,7 @@ J'ai appris à gérer les alertes de manière efficace et à structurer le repor
 Ces labs m'ont permis de me familiariser avec les outils principaux utilisés en SOC pour détecter et répondre aux incidents.
 
 ---
-<img width="170" alt="image" src="https://github.com/user-attachments/assets/87ee609c-d113-44ad-954f-1ef4b3c9e95e" />
+<img width="710" height="710" alt="image" src="https://github.com/user-attachments/assets/786aacec-fa50-4ac9-acd4-f365b3c6d09c" />
 
 ### 4. Cyber Defence Frameworks
 - **Pyramid of Pain** : priorisation des indicateurs de compromission (IOC).  
@@ -48,7 +48,7 @@ Ces labs m'ont permis de me familiariser avec les outils principaux utilisés en
 Ces frameworks m'ont aidé à structurer mes analyses et mes stratégies de détection.
 
 ---
-<img width="170" alt="image" src="https://github.com/user-attachments/assets/b91a9561-df9f-410e-9273-7fb2b3891324" />
+<img width="710" height="710" alt="image" src="https://github.com/user-attachments/assets/c916669a-04b1-4fe7-85c4-0d701d7d0016" />
 
 ### 5. Analyse de phishing
 - **Phishing Analysis Fundamentals & Tools** : analyse d'emails suspects, extraction des liens et fichiers.  
@@ -56,7 +56,7 @@ Ces frameworks m'ont aidé à structurer mes analyses et mes stratégies de dét
 - Scénarios pratiques : identification et mitigation de phishing simulés.
 
 ---
-<img width="170" alt="image" src="https://github.com/user-attachments/assets/a9ec8b8f-d4ff-41f9-bfe3-d37402224b30" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e3451aa7-d187-4ab9-a84f-3cbefe3d6ced" />
 
 ### 6. Analyse du trafic réseau
 - **Network Traffic Basics / Wireshark / NetworkMiner** : capture et analyse de trafic, détection d’anomalies.  
@@ -65,7 +65,7 @@ Ces frameworks m'ont aidé à structurer mes analyses et mes stratégies de dét
 Ces labs m'ont permis de détecter des activités suspectes sur le réseau.
 
 ---
-<img width="170" alt="image" src="https://github.com/user-attachments/assets/15c2e515-02b3-41ae-9873-3b90b82ef5f0" />
+<img width="303" height="303" alt="image" src="https://github.com/user-attachments/assets/d51a4b23-ed11-48fa-a830-e894a9440c6c" />
 
 ### 7. Monitoring réseau
 - **Network Security Essentials & Discovery Detection** : surveillance de la topologie et détection d’intrusions.  
@@ -91,7 +91,7 @@ Ces labs m'ont permis de détecter des activités suspectes sur le réseau.
 - Scénarios pratiques pour investigation Linux (ex : BlackCat).
 
 ---
-<img width="170" alt="image" src="https://github.com/user-attachments/assets/469796e7-050c-48e6-8240-e6bb8b566cce" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/8c441167-82fb-4404-83cf-9255d2ae1383" />
 
 ### 11. Concepts malware pour SOC
 - **Malware Classification** : types de malwares et techniques d'attaque.  
@@ -99,19 +99,21 @@ Ces labs m'ont permis de détecter des activités suspectes sur le réseau.
 - **Intro to Malware Analysis** : analyse statique et dynamique basique.
 
 ---
-<img width="170" alt="image" src="https://github.com/user-attachments/assets/469796e7-050c-48e6-8240-e6bb8b566cce" />
+
+
 ### 12. Threat Analysis Tools
 - **Cyber Threat Intel** : collecte et corrélation des IOCs (hash, IP, domaine).  
 - Utilisation de plateformes comme VirusTotal, MISP, OpenCTI.
 
 ---
+<img width="303" height="303" alt="image" src="https://github.com/user-attachments/assets/f1d2dd9d-7866-48da-b78c-97d1b2ee16f2" />
 
 ### 13. SIEM Triage
 - **Log Analysis with SIEM / Splunk / Elastic** : recherches, triage et dashboards.  
 - Labs pratiques (ItsyBitsy, Benign) pour appliquer les techniques de triage.
 
 ---
-<img width="170" alt="image" src="https://github.com/user-attachments/assets/f8fcff8c-2544-4bb4-94d0-58773b62d562" />
+<img width="303" height="303" alt="image" src="https://github.com/user-attachments/assets/c93533d4-9b91-4a2b-847d-c07e5935f4d5" />
 
 ### 14. Capstone Challenges
 - **Tempest / Boogeyman / Hidden Hooks / Open Door** : exercices complets intégrant logs, network forensics et incident response.  
