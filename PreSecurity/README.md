@@ -20,7 +20,7 @@ Ces leçons m'ont donné une vue d'ensemble des rôles possibles et de ce que si
 
 ---
 
-<img width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/ff56bc04-13e1-4ac6-8ada-f4667cf32f36" />
+<img width="240" alt="image" src="https://github.com/user-attachments/assets/ff56bc04-13e1-4ac6-8ada-f4667cf32f36" />
 
 ### 2. Fondamentaux des réseaux
 Cette section m'a permis de comprendre comment les ordinateurs communiquent entre eux :  
@@ -35,7 +35,7 @@ Grâce aux mini-labs, j'ai pu manipuler des réseaux virtuels et observer le tra
 
 ---
 
-<img width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/86785860-745e-4d5a-a9fd-ab4857ebaaa9" />
+<img width="240" alt="image" src="https://github.com/user-attachments/assets/86785860-745e-4d5a-a9fd-ab4857ebaaa9" />
 
 ### 3. Comment fonctionne le web
 J'ai exploré le fonctionnement des services web et de l'infrastructure Internet :  
@@ -49,7 +49,7 @@ Cette section m'a permis de comprendre les bases derrière tout site web et les 
 
 ---
 
-<img width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/9f4fb910-8439-4701-a24a-f57e1730d7e5" />
+<img width="240" alt="image" src="https://github.com/user-attachments/assets/9f4fb910-8439-4701-a24a-f57e1730d7e5" />
 
 ### 4. Fondamentaux Linux
 J'ai découvert l'environnement Linux, essentiel pour de nombreux outils de cybersécurité :  
@@ -61,7 +61,7 @@ Ces labs m'ont donné une expérience pratique de la manipulation des systèmes 
 
 ---
 
-<img width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/d9312ac7-644a-43f9-af68-274517283272" />
+<img width="240" alt="image" src="https://github.com/user-attachments/assets/d9312ac7-644a-43f9-af68-274517283272" />
 
 ### 5. Fondamentaux Windows
 Cette section m'a introduit à l'environnement Windows :  
