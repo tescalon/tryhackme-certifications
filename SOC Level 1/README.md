@@ -135,5 +135,5 @@ Ces labs m'ont permis de détecter des activités suspectes sur le réseau.
 ---
 
 ## Certificat
-[Voir le certificat SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SAL1.pdf)
+[Voir le certificat SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SAL1.pdf) à remplacer
 
