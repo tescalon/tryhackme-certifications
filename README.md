@@ -1,7 +1,9 @@
 # TryHackMe-Certifications
 Repository regroupant mes apprentissages théoriques et pratiques réalisés sur TryHackMe : PreSecurity, Cyber Security 101, Security Engineer, DevSecOps et SOC Level 1. Compétences en sécurité offensive, défensive, ingénierie et analyse SOC.
 
-                            <img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/1aa270b7-355d-4bd6-8391-98e4ebcad210" />
+<p align="center">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/1aa270b7-355d-4bd6-8391-98e4ebcad210" />
+</p>
 
 
 ---
