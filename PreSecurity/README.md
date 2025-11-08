@@ -82,6 +82,11 @@ Ces travaux m'ont permis de mettre en pratique les notions théoriques et de me 
 
 ---
 
+## Outils et technologies utilisés
+`Windows Basics` · `Linux Basics` · `Command Line (PowerShell/Bash)` · `Networking Tools (ping, traceroute)` · `Wireshark` · `TCP/UDP Analysis` · `DNS & HTTP Tools` · `Active Directory Concepts` · `Basic Security Principles`
+
+---
+
 ## Certificat
 [Voir le certificat PreSecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QIPUGXHXHT.pdf)
 
