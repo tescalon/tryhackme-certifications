@@ -10,7 +10,24 @@ Repository regroupant mes apprentissages théoriques et pratiques réalisés sur
 
 ## Objectif
 
-Développer une compréhension complète de la cybersécurité moderne — des bases techniques jusqu’à la gestion des risques et à l’ingénierie sécurisée — à travers des **labs pratiques** et des **cas d’étude concrets**.
+Développer une compréhension complète de la cybersécurité moderne — des bases techniques jusqu’à la gestion des risques et à l’ingénierie sécurisée — à travers des **labs pratiques** et des **cas d’étude concrets**. 
+
+J’ai entrepris ce projet d’auto-formation complète pour approfondir mes connaissances sur les SIEM, en particulier Wazuh, afin de le déployer et le maîtriser en contexte d’entreprise.
+Ce projet m’a également permis de consolider les fondations essentielles avant d’aller plus loin dans l’analyse, la détection et la gouvernance de la sécurité.
+
+---
+
+**Organisation et prise de notes**
+
+Tous les cours et modules TryHackMe ont été documentés dans un espace Notion collaboratif, afin de pouvoir :
+
+Structurer et centraliser mes apprentissages,
+
+Conserver une trace réutilisable pour mes futurs projets professionnels,
+
+Créer une base de connaissances personnelle autour des concepts clés (réseaux, systèmes, sécurité défensive, DevSecOps, etc.).
+
+_Je considère les contenus TryHackMe comme d’excellente qualité pédagogique, c’est pourquoi j’ai choisi de tout archiver et d’y ajouter mes propres résumés, schémas et notes technique_
 
 ---
 
@@ -35,13 +52,6 @@ Développer une compréhension complète de la cybersécurité moderne — des b
 - Analyse SOC et Threat Hunting  
 - Investigation et réponse aux incidents  
 - Systèmes Linux & Windows, scripting Bash/Python
-
----
-
-## Outils et environnements utilisés
-
-`Linux` · `Windows` · `Wireshark` · `Burp Suite` · `Splunk` · `ELK` · `Wazuh` ·  
-`PowerShell` · `Bash` · `Python` · `Docker` · `Git` · `TryHackMe Labs`
 
 ---
 
