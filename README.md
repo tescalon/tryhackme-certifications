@@ -21,11 +21,11 @@ Ce projet m’a également permis de consolider les fondations essentielles avan
 
 Tous les cours et modules TryHackMe ont été documentés dans un espace Notion collaboratif, afin de pouvoir :
 
-Structurer et centraliser mes apprentissages,
+- Structurer et centraliser mes apprentissages,
 
-Conserver une trace réutilisable pour mes futurs projets professionnels,
+- Conserver une trace réutilisable pour mes futurs projets professionnels,
 
-Créer une base de connaissances personnelle autour des concepts clés (réseaux, systèmes, sécurité défensive, DevSecOps, etc.).
+- Créer une base de connaissances personnelle autour des concepts clés (réseaux, systèmes, sécurité défensive, DevSecOps, etc.).
 
 _Je considère les contenus TryHackMe comme d’excellente qualité pédagogique, c’est pourquoi j’ai choisi de tout archiver et d’y ajouter mes propres résumés, schémas et notes technique_
 
