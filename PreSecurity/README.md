@@ -7,7 +7,7 @@ J'ai suivi le module **PreSecurity** sur TryHackMe, qui constitue la première �
 ---
 
 ## Contenu du module
-<img width="220" alt="image" src="https://github.com/user-attachments/assets/a2857f52-0240-41dd-a83f-524b25764c85" />
+<img width="170" alt="image" src="https://github.com/user-attachments/assets/a2857f52-0240-41dd-a83f-524b25764c85" />
 
 ### 1. Introduction à la cybersécurité
 Dans cette section, j'ai découvert les bases essentielles de la cybersécurité :  
@@ -19,8 +19,7 @@ Dans cette section, j'ai découvert les bases essentielles de la cybersécurité
 Ces leçons m'ont donné une vue d'ensemble des rôles possibles et de ce que signifie travailler dans ce domaine.
 
 ---
-
-<img width="220" alt="image" src="https://github.com/user-attachments/assets/ff56bc04-13e1-4ac6-8ada-f4667cf32f36" />
+<img width="170" alt="image" src="https://github.com/user-attachments/assets/ff56bc04-13e1-4ac6-8ada-f4667cf32f36" />
 
 ### 2. Fondamentaux des réseaux
 Cette section m'a permis de comprendre comment les ordinateurs communiquent entre eux :  
@@ -34,8 +33,7 @@ Cette section m'a permis de comprendre comment les ordinateurs communiquent entr
 Grâce aux mini-labs, j'ai pu manipuler des réseaux virtuels et observer le trafic réel pour mieux comprendre les concepts.
 
 ---
-
-<img width="220" alt="image" src="https://github.com/user-attachments/assets/86785860-745e-4d5a-a9fd-ab4857ebaaa9" />
+<img width="170" alt="image" src="https://github.com/user-attachments/assets/86785860-745e-4d5a-a9fd-ab4857ebaaa9" />
 
 ### 3. Comment fonctionne le web
 J'ai exploré le fonctionnement des services web et de l'infrastructure Internet :  
@@ -48,8 +46,7 @@ J'ai exploré le fonctionnement des services web et de l'infrastructure Internet
 Cette section m'a permis de comprendre les bases derrière tout site web et les communications sécurisées.
 
 ---
-
-<img width="220" alt="image" src="https://github.com/user-attachments/assets/9f4fb910-8439-4701-a24a-f57e1730d7e5" />
+<img width="170" alt="image" src="https://github.com/user-attachments/assets/9f4fb910-8439-4701-a24a-f57e1730d7e5" />
 
 ### 4. Fondamentaux Linux
 J'ai découvert l'environnement Linux, essentiel pour de nombreux outils de cybersécurité :  
@@ -60,8 +57,7 @@ J'ai découvert l'environnement Linux, essentiel pour de nombreux outils de cybe
 Ces labs m'ont donné une expérience pratique de la manipulation des systèmes Linux, indispensable pour les tests de sécurité.
 
 ---
-
-<img width="220" alt="image" src="https://github.com/user-attachments/assets/d9312ac7-644a-43f9-af68-274517283272" />
+<img width="170" alt="image" src="https://github.com/user-attachments/assets/d9312ac7-644a-43f9-af68-274517283272" />
 
 ### 5. Fondamentaux Windows
 Cette section m'a introduit à l'environnement Windows :  
