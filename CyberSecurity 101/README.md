@@ -1,5 +1,5 @@
 # Cyber Security 101
-<img width="311" height="162" alt="image" src="https://github.com/user-attachments/assets/336c8d87-72e4-43cd-8d01-6f5978e338bd" />
+<img width="260" alt="image" src="https://github.com/user-attachments/assets/336c8d87-72e4-43cd-8d01-6f5978e338bd" />
 
 
 ## Description
