@@ -17,7 +17,7 @@ Ce projet m’a également permis de consolider les fondations essentielles avan
 
 ---
 
-**Organisation et prise de notes**
+## Organisation et prise de notes
 
 Tous les cours et modules TryHackMe ont été documentés dans un espace Notion collaboratif, afin de pouvoir :
 
