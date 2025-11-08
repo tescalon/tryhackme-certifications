@@ -1,4 +1,6 @@
 # Cyber Security 101
+<img width="311" height="162" alt="image" src="https://github.com/user-attachments/assets/336c8d87-72e4-43cd-8d01-6f5978e338bd" />
+
 
 ## Description
 J'ai suivi le module **Cyber Security 101** sur TryHackMe, conçu pour les débutants qui souhaitent acquérir une compréhension solide des différents domaines de la cybersécurité. Ce parcours m'a permis de consolider mes connaissances en réseaux, systèmes Windows et Linux, cryptographie, sécurité offensive et défensive, ainsi que sur les carrières en cybersécurité. J'ai combiné théorie et travaux pratiques à travers des laboratoires interactifs pour acquérir une expérience concrète.
