@@ -8,7 +8,7 @@ J'ai suivi le module **Cyber Security 101** sur TryHackMe, conçu pour les débu
 ---
 
 ## Contenu du module
-<img width="220" alt="image" src="https://github.com/user-attachments/assets/a239a914-5019-43c2-b12b-aefc3f9a47d4" />
+<img width="120" alt="image" src="https://github.com/user-attachments/assets/a239a914-5019-43c2-b12b-aefc3f9a47d4" />
 
 ### 1. Débuter en cybersécurité
 Dans cette section, j'ai découvert les fondamentaux pour démarrer dans la cybersécurité :  
