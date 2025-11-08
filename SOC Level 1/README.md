@@ -10,9 +10,9 @@ J'ai complété le module **SOC Level 1** sur TryHackMe pour acquérir les comp�
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/2de9419b-ab29-4496-9f86-b7abfd489092" />
 
 ### 1. Introduction à la Blue Team
-- **Junior Security Analyst Intro** : découverte du rôle d'analyste SOC L1.  
-- **SOC Role in Blue Team** : missions et responsabilités au sein d'une équipe SOC.  
-- **Humans as Attack Vectors / Systems as Attack Vectors** : identification des vecteurs d'attaque et impact sur la sécurité.
+- **Présentation du rôle d’analyste SOC L1** : découverte du rôle et missions.  
+- **Fonctionnement du SOC dans la Blue Team** : responsabilités quotidiennes.  
+- **Vecteurs d’attaque humains et systèmes** : identification et impact.  
 
 Ces éléments posent les bases pour comprendre les responsabilités quotidiennes d’un analyste SOC.
 
@@ -20,9 +20,9 @@ Ces éléments posent les bases pour comprendre les responsabilités quotidienne
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/f73bd35d-d296-47a8-838d-61a2368f280e" />
 
 ### 2. Internals SOC
-- **SOC L1 Alert Triage & Reporting** : triage, priorisation et documentation des alertes.  
+- **Triage et reporting des alertes (SOC L1 Alert)** : triage, priorisation et documentation des alertes.  
 - **SOC Workbooks and Lookups** : utilisation des workbooks et des lookups pour enrichir les données.  
-- **SOC Metrics and Objectives** : compréhension des KPIs, SLA et indicateurs de performance.  
+- **KPIs et objectifs SOC** : compréhension des KPIs, SLA et indicateurs de performance.  
 - Scénarios pratiques : phishing simulations pour l'analyse et le reporting.
 
 J'ai appris à gérer les alertes de manière efficace et à structurer le reporting SOC.
@@ -31,9 +31,9 @@ J'ai appris à gérer les alertes de manière efficace et à structurer le repor
 <img width="170" alt="image" src="https://tryhackme-images.s3.eu-west-1.amazonaws.com/modules/core-soc-solutions-1761836963983.svg" />
 
 ### 3. Solutions SOC
-- **Introduction to EDR** : déploiement, surveillance des endpoints et collecte de télémétrie.  
-- **Introduction to SIEM / Splunk / Elastic Stack** : ingestion de logs, recherche, corrélation et alerting.  
-- **Introduction to SOAR** : automatisation des tâches SOC et orchestration des réponses aux incidents.
+- **Introduction aux EDR** : déploiement, surveillance des endpoints et collecte de télémétrie.  
+- **Introduction aux SIEM / Splunk / Elastic Stack** : ingestion de logs, recherche, corrélation et alerting.  
+- **Introduction aux SOAR** : automatisation des tâches SOC et orchestration des réponses aux incidents.
 
 Ces labs m'ont permis de me familiariser avec les outils principaux utilisés en SOC pour détecter et répondre aux incidents.
 
@@ -51,8 +51,8 @@ Ces frameworks m'ont aidé à structurer mes analyses et mes stratégies de dét
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/c916669a-04b1-4fe7-85c4-0d701d7d0016" />
 
 ### 5. Analyse de phishing
-- **Phishing Analysis Fundamentals & Tools** : analyse d'emails suspects, extraction des liens et fichiers.  
-- **Phishing Prevention** : mesures préventives pour réduire les risques utilisateurs.  
+- **Bases du trafic réseau / Wireshark / NetworkMiner** : analyse d'emails suspects, extraction des liens et fichiers.  
+- **Prévention du phishing** : mesures préventives pour réduire les risques utilisateurs.  
 - Scénarios pratiques : identification et mitigation de phishing simulés.
 
 ---
@@ -60,7 +60,7 @@ Ces frameworks m'ont aidé à structurer mes analyses et mes stratégies de dét
 
 ### 6. Analyse du trafic réseau
 - **Network Traffic Basics / Wireshark / NetworkMiner** : capture et analyse de trafic, détection d’anomalies.  
-- **Packet Operations** : suivi de flux, filtrage et inspection approfondie.  
+- **Opérations sur les paquets réseaux** : suivi de flux, filtrage et inspection approfondie.  
 
 Ces labs m'ont permis de détecter des activités suspectes sur le réseau.
 
@@ -70,36 +70,35 @@ Ces labs m'ont permis de détecter des activités suspectes sur le réseau.
 ### 7. Monitoring réseau
 - **Network Security Essentials & Discovery Detection** : surveillance de la topologie et détection d’intrusions.  
 - **IDS / Snort** : déploiement et utilisation pour détecter les activités malveillantes.  
-- **Data Exfiltration & MitM Detection** : identification des exfiltrations et attaques man-in-the-middle.
+- **Exfiltration de données & MitM Detection** : identification des exfiltrations et attaques man-in-the-middle.
 
 ---
 <img width="170" alt="image" src="https://tryhackme-images.s3.eu-west-1.amazonaws.com/modules/web-security-monitoring-1758288631299.svg" />
 
 ### 8. Monitoring Web
-- **Web Security Essentials & Detecting Web Attacks** : détection de web shells, uploads malveillants et DDoS.  
+- **Sécurité Web et détection des attaques** : détection de web shells, uploads malveillants et DDoS.  
 - Scénarios pratiques pour suivre et analyser les attaques web.
 
 ---
 <img width="170" alt="image" src="https://tryhackme-images.s3.eu-west-1.amazonaws.com/modules/windows-security-monitoring-1753787914027.svg" />
 
 ### 9. Monitoring Windows
-- **Windows Logging for SOC** : événements critiques et Sysmon.  
-- **Windows Threat Detection 1 à 3** : détection de persistence, d'injection et d'activités suspectes PowerShell.
+- **Logs Windows  et détection de menaces** : événements critiques et Sysmon, détection de persistence, d'injection et d'activités suspectes PowerShell.  
 
 ---
 <img width="170" alt="image" src="https://tryhackme-images.s3.eu-west-1.amazonaws.com/modules/linux-security-monitoring-1761914648963.svg" />
 
 ### 10. Monitoring Linux
-- **Linux Logging & Threat Detection 1 à 3** : auditd, journald et détection d’activités anormales.  
+- **Logs Linux et détection de menaces** : auditd, journald et détection d’activités anormales.  
 - Scénarios pratiques pour investigation Linux (ex : BlackCat).
 
 ---
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/8c441167-82fb-4404-83cf-9255d2ae1383" />
 
 ### 11. Concepts malware pour SOC
-- **Malware Classification** : types de malwares et techniques d'attaque.  
+- **Classification des malwares** : types de malwares et techniques d'attaque.  
 - **Living Off the Land Attacks / Shadow Trace** : exploitation d’outils natifs pour les attaques.  
-- **Intro to Malware Analysis** : analyse statique et dynamique basique.
+- **Introduction à l’analyse de malware** : analyse statique et dynamique basique.
 
 ---
 <img width="170" alt="image" src="https://tryhackme-images.s3.eu-west-1.amazonaws.com/modules/threat-analysis-tools-1757684500027.svg" />
@@ -112,7 +111,7 @@ Ces labs m'ont permis de détecter des activités suspectes sur le réseau.
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/f1d2dd9d-7866-48da-b78c-97d1b2ee16f2" />
 
 ### 13. SIEM Triage
-- **Log Analysis with SIEM / Splunk / Elastic** : recherches, triage et dashboards.  
+- **Analyse des logs avec SIEM / Splunk / Elastic** : recherches, triage et dashboards.  
 - Labs pratiques (ItsyBitsy, Benign) pour appliquer les techniques de triage.
 
 ---
