@@ -1,5 +1,5 @@
 # PreSecurity
-<img width="257" alt="image" src="https://github.com/user-attachments/assets/9526c650-6810-4524-9df8-97eb2f43ea6e" />
+<img width="240" alt="image" src="https://github.com/user-attachments/assets/9526c650-6810-4524-9df8-97eb2f43ea6e" />
 
 ## Description
 J'ai suivi le module **PreSecurity** sur TryHackMe, qui constitue la première étape de mon parcours en cybersécurité. Ce module est conçu pour les débutants et m'a permis d'acquérir les connaissances techniques pré-requises pour comprendre comment fonctionnent les technologies avant de les attaquer ou les défendre. Le parcours allie théorie et exercices pratiques dans des laboratoires interactifs, me donnant une première expérience concrète de la cybersécurité.
