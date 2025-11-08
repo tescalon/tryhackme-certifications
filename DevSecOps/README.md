@@ -10,9 +10,9 @@ J'ai complété le module **DevSecOps** sur TryHackMe pour acquérir les compét
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/ff6ba62c-2d7c-4e66-a25a-85abdd852b11" />
 
 ### 1. Développement logiciel sécurisé
-- **Introduction to DevSecOps** : panorama de la culture DevSecOps, principes de shift-left et intégration de la sécurité dès la conception.  
-- **SDLC** : cycle de vie classique du développement logiciel et importance de la sécurité à chaque étape.  
-- **SSDLC** : Secure Software Development Lifecycle, avec contrôle des exigences, revues de code et tests de sécurité automatisés.
+- **Introduction à DevSecOps** : présentation de la culture DevSecOps, principes de *shift-left* et intégration de la sécurité dès la conception.  
+- **Cycle de vie du développement logiciel (SDLC)** : compréhension du processus classique de développement et de l’importance d’intégrer la sécurité à chaque étape.  
+- **Cycle de vie sécurisé du développement (SSDLC)** : application de politiques, revues de code et tests de sécurité automatisés.  
 
 J'ai appris à intégrer la sécurité dès la conception des applications pour réduire la dette technique et limiter les risques.
 
@@ -20,9 +20,9 @@ J'ai appris à intégrer la sécurité dès la conception des applications pour 
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/32c8fcf4-a456-49f5-ab2c-8f45210e0a61" />
 
 ### 2. Sécurité des pipelines
-- **Intro to Pipeline Automation** : automatisation des workflows et pipelines CI/CD.  
-- **Source Code Security** : gestion sécurisée du code source, contrôle des accès, scanning des secrets et sécurité des branches.  
-- **CI/CD and Build Security** : sécurisation des builds, validation automatique des artefacts et protection contre l'injection de dépendances malveillantes.
+- **Introduction à l’automatisation des pipelines** : compréhension des workflows et des chaînes CI/CD.  
+- **Sécurité du code source** : contrôle d’accès, gestion des branches, *secret scanning* et protection des dépôts Git.  
+- **Sécurité des builds CI/CD** : validation des artefacts, signature, intégrité et protection contre l’injection de dépendances malveillantes.  
 
 Ces labs m'ont permis de comprendre comment sécuriser un pipeline automatisé et détecter les risques dès le build.
 
@@ -30,10 +30,10 @@ Ces labs m'ont permis de comprendre comment sécuriser un pipeline automatisé e
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/e4cf6794-8c7f-4fac-8cdd-c2290c649a4a" />
 
 ### 3. Sécurité dans le pipeline
-- **Dependency Management** : analyse des dépendances, détection de vulnérabilités via des outils comme OWASP Dependency-Check ou Snyk.  
-- **SAST** : analyse statique pour détecter des vulnérabilités dans le code source avant le déploiement.  
-- **DAST** : analyse dynamique pour identifier des failles de sécurité dans les applications en fonctionnement.  
-- **Mother's Secret** : lab pratique simulant des scénarios d’exploitation pour appliquer les contrôles de sécurité.
+- **Gestion des dépendances** : analyse de vulnérabilités via des outils comme *OWASP Dependency-Check* ou *Snyk*.  
+- **Analyse statique (SAST)** : détection de failles dans le code source avant le déploiement.  
+- **Analyse dynamique (DAST)** : identification de vulnérabilités dans les applications en exécution.  
+- **Mother’s Secret** : laboratoire pratique appliquant ces contrôles dans un environnement réel.  
 
 J'ai développé une expertise pour identifier et corriger les failles avant qu'elles n'atteignent la production.
 
@@ -41,11 +41,11 @@ J'ai développé une expertise pour identifier et corriger les failles avant qu'
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/e4c82b17-3923-4721-b8f9-6c741cc699eb" />
 
 ### 4. Sécurité des conteneurs
-- **Intro to Containerisation** : compréhension des concepts de conteneurisation et des architectures microservices.  
-- **Intro to Docker** : sécurisation des images Docker, gestion des secrets et durcissement des conteneurs.  
-- **Intro to Kubernetes** : sécurisation des clusters, RBAC, policies réseau et scanning des images.  
-- **Container Vulnerabilities** : identification des failles dans les conteneurs et bonnes pratiques de patching.  
-- **Container Hardening** : techniques de durcissement pour réduire la surface d’attaque des conteneurs et orchestrateurs.
+- **Introduction à la conteneurisation** : principes de fonctionnement et avantages des architectures microservices.  
+- **Sécurisation des conteneurs Docker** : bonnes pratiques sur les images, gestion des secrets et durcissement des configurations.  
+- **Sécurité des clusters Kubernetes** : gestion des accès (RBAC), politiques réseau, *pod security policies* et *image scanning*.  
+- **Vulnérabilités des conteneurs** : détection, analyse et remédiation.  
+- **Durcissement des conteneurs** : réduction de la surface d’attaque et renforcement des configurations système.  
 
 J'ai appris à sécuriser l’ensemble du cycle de vie des conteneurs et à intégrer ces pratiques dans un pipeline CI/CD.
 
@@ -53,9 +53,9 @@ J'ai appris à sécuriser l’ensemble du cycle de vie des conteneurs et à int�
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/9c584f6d-e3ac-4aa8-bd44-8ce0583afb1c" />
 
 ### 5. Infrastructure as Code (IaC)
-- **Intro to IaC** : principes de codage de l’infrastructure et automatisation de la configuration des systèmes.  
-- **On-Premises IaC** : sécurisation des scripts et playbooks pour déploiements locaux.  
-- **Cloud-based IaC** : bonnes pratiques pour IaC dans le cloud, contrôle d’accès, secrets management et auditing.
+- **Introduction à l’IaC** : principes de codage de l’infrastructure et automatisation de la configuration des environnements.  
+- **IaC sur site (On-Premises IaC)** : sécurisation des playbooks et scripts locaux (Ansible, Terraform, etc.).  
+- **IaC dans le Cloud** : bonnes pratiques pour AWS, GCP, Azure : gestion des secrets, contrôle d’accès, chiffrement et audit.  
 
 J'ai compris comment appliquer les mêmes contrôles de sécurité à l’infrastructure que pour les applications, en automatisant la gouvernance.
 
