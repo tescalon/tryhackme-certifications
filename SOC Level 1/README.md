@@ -28,7 +28,7 @@ Ces éléments posent les bases pour comprendre les responsabilités quotidienne
 J'ai appris à gérer les alertes de manière efficace et à structurer le reporting SOC.
 
 ---
-
+<img width="170" alt="image" src="https://tryhackme-images.s3.eu-west-1.amazonaws.com/modules/core-soc-solutions-1761836963983.svg" />
 
 ### 3. Solutions SOC
 - **Introduction to EDR** : déploiement, surveillance des endpoints et collecte de télémétrie.  
