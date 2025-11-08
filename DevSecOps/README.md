@@ -1,4 +1,5 @@
 # DevSecOps
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/f076312a-ca28-43fe-8505-3239b586f34b" />
 
 ## Description
 J'ai complété le module **DevSecOps** sur TryHackMe pour acquérir les compétences nécessaires à la sécurisation des environnements de développement modernes, des pipelines CI/CD, des conteneurs et de l'Infrastructure as Code (IaC). Ce parcours m'a permis de comprendre comment intégrer la sécurité tout au long du cycle de développement logiciel (SDLC) et d'automatiser les contrôles de sécurité dans des workflows modernes.
@@ -6,6 +7,7 @@ J'ai complété le module **DevSecOps** sur TryHackMe pour acquérir les compét
 ---
 
 ## Contenu du module
+<img width="170" alt="image" src="https://github.com/user-attachments/assets/ff6ba62c-2d7c-4e66-a25a-85abdd852b11" />
 
 ### 1. Développement logiciel sécurisé
 - **Introduction to DevSecOps** : panorama de la culture DevSecOps, principes de shift-left et intégration de la sécurité dès la conception.  
@@ -15,6 +17,7 @@ J'ai complété le module **DevSecOps** sur TryHackMe pour acquérir les compét
 J'ai appris à intégrer la sécurité dès la conception des applications pour réduire la dette technique et limiter les risques.
 
 ---
+<img width="170" alt="image" src="https://github.com/user-attachments/assets/32c8fcf4-a456-49f5-ab2c-8f45210e0a61" />
 
 ### 2. Sécurité des pipelines
 - **Intro to Pipeline Automation** : automatisation des workflows et pipelines CI/CD.  
@@ -24,6 +27,7 @@ J'ai appris à intégrer la sécurité dès la conception des applications pour 
 Ces labs m'ont permis de comprendre comment sécuriser un pipeline automatisé et détecter les risques dès le build.
 
 ---
+<img width="170" alt="image" src="https://github.com/user-attachments/assets/e4cf6794-8c7f-4fac-8cdd-c2290c649a4a" />
 
 ### 3. Sécurité dans le pipeline
 - **Dependency Management** : analyse des dépendances, détection de vulnérabilités via des outils comme OWASP Dependency-Check ou Snyk.  
@@ -34,6 +38,7 @@ Ces labs m'ont permis de comprendre comment sécuriser un pipeline automatisé e
 J'ai développé une expertise pour identifier et corriger les failles avant qu'elles n'atteignent la production.
 
 ---
+<img width="170" alt="image" src="https://github.com/user-attachments/assets/e4c82b17-3923-4721-b8f9-6c741cc699eb" />
 
 ### 4. Sécurité des conteneurs
 - **Intro to Containerisation** : compréhension des concepts de conteneurisation et des architectures microservices.  
@@ -45,6 +50,7 @@ J'ai développé une expertise pour identifier et corriger les failles avant qu'
 J'ai appris à sécuriser l’ensemble du cycle de vie des conteneurs et à intégrer ces pratiques dans un pipeline CI/CD.
 
 ---
+<img width="170" alt="image" src="https://github.com/user-attachments/assets/9c584f6d-e3ac-4aa8-bd44-8ce0583afb1c" />
 
 ### 5. Infrastructure as Code (IaC)
 - **Intro to IaC** : principes de codage de l’infrastructure et automatisation de la configuration des systèmes.  
