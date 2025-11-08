@@ -7,7 +7,7 @@ J'ai suivi le module **PreSecurity** sur TryHackMe, qui constitue la première �
 ---
 
 ## Contenu du module
-<img width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/a2857f52-0240-41dd-a83f-524b25764c85" />
+<img width="280" height="240" alt="image" src="https://github.com/user-attachments/assets/a2857f52-0240-41dd-a83f-524b25764c85" />
 
 ### 1. Introduction à la cybersécurité
 Dans cette section, j'ai découvert les bases essentielles de la cybersécurité :  
