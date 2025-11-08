@@ -156,5 +156,10 @@ Ces labs m'ont permis de mettre en pratique les concepts théoriques et d'acqué
 
 ---
 
+## Outils et technologies utilisés
+`Windows & Linux Basics` · `Active Directory` · `Command Line (PowerShell / Bash)` · `Wireshark` · `Tcpdump` · `Nmap` · `Burp Suite (Basics)` · `John the Ripper` · `SQL / HTTP Tools` · `SAST/DAST Basics` · `Cryptography Tools (hashing, public key)` · `Metasploit` . `CyberChef` · `REMnux` · `FlareVM` · `Basic SIEM Concepts` 
+
+---
+
 ## Certificat
 [Voir le certificat Cyber Security 101](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-9TWIDANZHT.pdf)
