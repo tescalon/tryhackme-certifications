@@ -66,6 +66,7 @@ _Je considère les contenus TryHackMe comme d’excellente qualité pédagogique
 *(Les certificats sont disponibles dans le dossier `/certifications`)*
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/tescalon.png" alt="TryHackMe Badge" width="400"/>
+
 ---
 
 ## Objectif final
