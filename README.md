@@ -68,7 +68,7 @@ Au total, plus de **+200 heures de formation pratique et théorique** réalisée
 
 *(Les certificats sont disponibles dans le dossier `/certifications`)*
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/tescalon.png" alt="Your Image Badge" />
 
 *À la fin de mon parcours sur TryHackMe, je me suis classé dans le **top 1 % mondial**, soit **12 745ᵉ sur environ 1,3 million d’utilisateurs actifs**.*
 
