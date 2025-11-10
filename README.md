@@ -42,6 +42,7 @@ _Je considère les contenus TryHackMe comme d’excellente qualité pédagogique
 |  [SOC Level 1](./SOC_Level_1/README.md) | Détection, analyse et investigation d’incidents. | ✅ |
 
 
+
 J’ai également complété plusieurs **modules complémentaires** (Threat Intel, Phishing Analysis, Malware Basics, Splunk, etc.) pour consolider mes compétences.  
 Au total, plus de **+200 heures de formation pratique et théorique** réalisées sur TryHackMe, tous modules mélangés.
 
