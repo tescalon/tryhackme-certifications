@@ -70,7 +70,7 @@ Au total, plus de **+200 heures de formation pratique et théorique** réalisée
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/tescalon.png" alt="TryHackMe Badge" width="400"/>
 
-_À la fin de mon parcours sur TryHackMe, je me suis classé dans le **top 1 % mondial**, soit **12 745ᵉ sur environ 1,3 million d’utilisateurs actifs**.
+À la fin de mon parcours sur TryHackMe, je me suis classé dans le **top 1 % mondial**, soit **12 745ᵉ sur environ 1,3 million d’utilisateurs actifs**.
 ---
 
 ## Objectif final
