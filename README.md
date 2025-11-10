@@ -1,5 +1,5 @@
 # TryHackMe-Certifications
-Repository regroupant mes apprentissages théoriques et pratiques réalisés sur TryHackMe : PreSecurity, Cyber Security 101, Security Engineer, DevSecOps et SOC Level 1. Compétences en sécurité offensive, défensive, ingénierie et analyse SOC.
+Repository regroupant mes apprentissages théoriques et pratiques réalisés sur TryHackMe : PreSecurity, Cyber Security 101, Security Engineer, DevSecOps et SOC Level 1 et d'autres modules complémentaires. Compétences en sécurité offensive, défensive, ingénierie et analyse SOC.
 
 <p align="center">
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/1aa270b7-355d-4bd6-8391-98e4ebcad210" />
@@ -41,7 +41,7 @@ _Je considère les contenus TryHackMe comme d’excellente qualité pédagogique
 |  [DevSecOps](./DevSecOps/README.md) | Intégration de la sécurité dans le développement et CI/CD. | ✅ |
 |  [SOC Level 1](./SOC_Level_1/README.md) | Détection, analyse et investigation d’incidents. | ✅ |
 
-J’ai également complété plusieurs **modules complémentaires** (Threat Intel, Phishing Analysis, Malware Basics, Splunk, etc.) pour consolider mes compétences.  
+J’ai également complété plusieurs **modules complémentaires** pour consolider mes compétences.  
 Au total, plus de **+200 heures de formation pratique et théorique** réalisées sur TryHackMe, tous modules mélangés.
 
 ---
