@@ -19,7 +19,7 @@ Ce projet m’a également permis de consolider les fondations essentielles avan
 
 ## Organisation et prise de notes
 
-Tous les cours et modules TryHackMe ont été documentés dans un espace Notion collaboratif, afin de pouvoir :
+Tous les cours et modules TryHackMe ont été documentés dans un espace Notion, afin de pouvoir :
 
 - Structurer et centraliser mes apprentissages,
 
@@ -40,6 +40,9 @@ _Je considère les contenus TryHackMe comme d’excellente qualité pédagogique
 |  [Security Engineer](./SecurityEngineer/README.md) | Ingénierie de la sécurité, durcissement et réponse aux incidents. | ✅ |
 |  [DevSecOps](./DevSecOps/README.md) | Intégration de la sécurité dans le développement et CI/CD. | ✅ |
 |  [SOC Level 1](./SOC_Level_1/README.md) | Détection, analyse et investigation d’incidents. | ✅ |
+
+J’ai également complété plusieurs **modules complémentaires** (Threat Intel, Phishing Analysis, Malware Basics, Splunk, etc.) pour consolider mes compétences.  
+Au total, plus de **+200 heures de formation pratique et théorique** réalisées sur TryHackMe, tous modules mélangés.
 
 ---
 
