@@ -12,7 +12,7 @@ Repository regroupant mes apprentissages théoriques et pratiques réalisés sur
 
 Développer une compréhension complète de la cybersécurité moderne — des bases techniques jusqu’à la gestion des risques et à l’ingénierie sécurisée — à travers des **labs pratiques** et des **cas d’étude concrets**. 
 
-J’ai entrepris ce projet d’auto-formation complète pour approfondir mes connaissances sur les SIEM, en particulier Wazuh, afin de le déployer et le maîtriser en contexte d’entreprise.
+J’ai entrepris ce projet d’auto-formation pour approfondir mes connaissances sur les SIEM, en particulier Wazuh, afin de le déployer et le maîtriser en contexte d’entreprise.
 Ce projet m’a également permis de consolider les fondations essentielles avant d’aller plus loin dans l’analyse, la détection et la gouvernance de la sécurité.
 
 ---
@@ -27,7 +27,7 @@ Tous les cours et modules TryHackMe ont été documentés dans un espace Notion,
 
 - Créer une base de connaissances personnelle autour des concepts clés (réseaux, systèmes, sécurité défensive, DevSecOps, etc.).
 
-_Je considère les contenus TryHackMe comme d’excellente qualité pédagogique, c’est pourquoi j’ai choisi de tout archiver et d’y ajouter mes propres résumés, schémas et notes technique_
+_Je considère les contenus TryHackMe excellents, c’est pourquoi j’ai choisi de tout archiver et d’y ajouter mes propres résumés, schémas et notes technique_
 
 ---
 
@@ -49,12 +49,13 @@ Au total, plus de **+200 heures de formation pratique et théorique** réalisée
 ## Compétences principales
 
 - Sécurité offensive et défensive  (beaucoup plus défensive)
-- Ingénierie et architecture de sécurité  
+- Ingénierie et architecture de sécurité
+- Réseaux et analyse du trafic réseau  
 - DevSecOps et automatisation CI/CD  
 - Gestion des risques et conformité (GRC)  
 - Analyse SOC et Threat Hunting  
 - Investigation et réponse aux incidents  
-- Systèmes Linux & Windows, scripting Bash/Python
+- Systèmes Linux & Windows
 
 ---
 
