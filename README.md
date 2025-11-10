@@ -41,6 +41,7 @@ _Je considère les contenus TryHackMe comme d’excellente qualité pédagogique
 |  [DevSecOps](./DevSecOps/README.md) | Intégration de la sécurité dans le développement et CI/CD. | ✅ |
 |  [SOC Level 1](./SOC_Level_1/README.md) | Détection, analyse et investigation d’incidents. | ✅ |
 
+
 J’ai également complété plusieurs **modules complémentaires** (Threat Intel, Phishing Analysis, Malware Basics, Splunk, etc.) pour consolider mes compétences.  
 Au total, plus de **+200 heures de formation pratique et théorique** réalisées sur TryHackMe, tous modules mélangés.
 
