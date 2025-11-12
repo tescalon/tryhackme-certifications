@@ -42,7 +42,7 @@ _Je considère les contenus TryHackMe excellents, c’est pourquoi j’ai choisi
 |  [SOC Level 1](./SOC_Level_1/README.md) | Détection, analyse et investigation d’incidents. | ✅ |
 
 J’ai également complété plusieurs **modules complémentaires** pour consolider mes compétences (Sécurité du réseau, Surveillance de la sécurité des terminaux, Authentification, Défendre l'IA, etc).  
-Au total, plus de **+200 heures de formation pratique et théorique** réalisées sur TryHackMe, tous modules mélangés.
+Au total, plus de **+220 heures de formation pratique et théorique** réalisées sur TryHackMe, tous modules mélangés.
 
 ---
 
