@@ -69,11 +69,11 @@ Au total, plus de **+220 heures de formation pratique et théorique** réalisée
 
 *(Les certificats sont disponibles dans le dossier `/certifications`)*
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/tescalon.png?v=2025-11-10" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/tescalon.png?update=1" alt="TryHackMe Badge" />
 <img src="https://github.com/tescalon/tryhackme-certifications/blob/7e591fa1a6f750ff56f363d673f156088b87a346/L%C3%A9gende%20badge%20THM.png" alt="Légende badge THM" width="400"/>
 
 
-*À la fin de mon parcours sur TryHackMe, je me suis classé dans le **top 1 % mondial**, soit **11 023ᵉ sur environ 1,3 million d’utilisateurs actifs**.*
+*À la fin de mon parcours sur TryHackMe, je me suis classé dans le **top 1 % mondial**, soit **9 589ᵉ sur environ 1,3 million d’utilisateurs actifs**.*
 
 ---
 
